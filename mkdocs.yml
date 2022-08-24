@@ -1,0 +1,77 @@
+copyright: Copyright &copy; 2022 Daniel Alencar Penha Carvalho
+
+# Site
+site_name: Apache Airflow
+site_url: https://ahayasic.github.io/Apache-Airflow
+site_author: Daniel Alencar Penha Carvalho
+
+# Repository
+repo_name: Daniel-Alencar/airflow-docs
+repo_url: https://github.com/Daniel-Alencar/airflow-docs
+
+# Style
+theme:
+  name: material
+  language: pt
+  logo: assets/logo1.png
+
+  # Features
+  features:
+    - content.code.annotate       # allow add simple markers within block/inline comments
+    # - content.tabs.link         # make content tabs on a page be linked
+    - navigation.instant          # instant reloading
+    - navigation.tracking         # url in the address bar automatically updated with the active anchor
+    # - navigation.sections       # top-level sections rendered as groups
+    # - navigation.expand         # feft sidebar expand all collapsible subsections by default
+    - navigation.top              # back-to-top button
+    # - header.autohide           # header automatically hidden
+    - navigation.indexes          # documents can be directly attached to sections (not working properly!)
+    # - navigation.tabs           # top-level sections rendered in menu
+    - navigation.tabs.sticky      # lock sections in menu
+    - search.highlight            # highlight all occurrences of word searched
+    # - search.share              # shareble link to current query search
+    - search.suggest              # search display the likeliest completion for the last word
+    # - toc.integrate             # toc rendered as part of the navigation
+
+  # Colors
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Trocar para Modo Escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Trocar para Modo Claro
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/daniel746/
+    - icon: fontawesome/brands/github
+      link: https://github.com/Daniel-Alencar
+
+nav:
+  - Início: index.md
+  - Sobre o Autor: about.md
+  - Introdução ao Apache Airflow:
+    - Instalação: Básico/1 - Instalação do Airflow.md
+    - Exercício 01: Básico/1 - Instalação do Airflow.md
+    - O que é DAG?: Básico/2 - Entendendo e Criando DAGs.md
+    - Criando DAGs: Básico/2 - Entendendo e Criando DAGs.md
+    - Exercício 02: Básico/1 - Instalação do Airflow.md
+    - Resolução 02: Básico/1 - Instalação do Airflow.md
+    - O que é task?: Básico/3 - Criando uma DAG mais complexa.md
+    - DAGs com mais de uma task: Básico/3 - Criando uma DAG mais complexa.md
+    - Exercício 03: Básico/1 - Instalação do Airflow.md
+    - Resolução 03: Básico/1 - Instalação do Airflow.md
+  - Conceitos mais avançados:
+    - Agendamento e sensores: Básico/3 - Criando uma DAG mais complexa.md
+    - Exercício 04: Básico/1 - Instalação do Airflow.md
+    - Resolução 04: Básico/1 - Instalação do Airflow.md
