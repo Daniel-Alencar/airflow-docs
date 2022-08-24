@@ -8,6 +8,6 @@ Como você já deve saber, ensinar é a melhor forma de aprender e este projeto 
 
 Além disso, dado o caráter pessoal, peço que não se estresse ou fique chateado caso a didática seja ruim e o conteúdo esteja mal organizado e faltante, afinal o conteúdo não visa servir como referência ou material de ensino, mas sim como um guia pessoal!
 
-Porém, ao mesmo tempo, caso encontre quaisquer erros, por favor [entre em contato comigo](https://www.linkedin.com/in/ahayasic/) e irei corrigi-los o mais rápido possível (e você também estará me ajudando a aprender mais!).
+Porém, ao mesmo tempo, caso encontre quaisquer erros, por favor [entre em contato comigo](https://www.linkedin.com/in/Daniel746/) e irei corrigi-los o mais rápido possível (e você também estará me ajudando a aprender mais!).
 
 Enfim, divirta-se navegando pelo meu conhecimento! :grin:

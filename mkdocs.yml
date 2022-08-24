@@ -61,17 +61,19 @@ nav:
   - Início: index.md
   - Sobre o Autor: about.md
   - Introdução ao Apache Airflow:
-    - Instalação: Básico/1 - Instalação do Airflow.md
-    - Exercício 01: Básico/1 - Instalação do Airflow.md
-    - O que é DAG?: Básico/2 - Entendendo e Criando DAGs.md
-    - Criando DAGs: Básico/2 - Entendendo e Criando DAGs.md
-    - Exercício 02: Básico/1 - Instalação do Airflow.md
-    - Resolução 02: Básico/1 - Instalação do Airflow.md
-    - O que é task?: Básico/3 - Criando uma DAG mais complexa.md
-    - DAGs com mais de uma task: Básico/3 - Criando uma DAG mais complexa.md
-    - Exercício 03: Básico/1 - Instalação do Airflow.md
-    - Resolução 03: Básico/1 - Instalação do Airflow.md
-  - Conceitos mais avançados:
-    - Agendamento e sensores: Básico/3 - Criando uma DAG mais complexa.md
-    - Exercício 04: Básico/1 - Instalação do Airflow.md
-    - Resolução 04: Básico/1 - Instalação do Airflow.md
+    - Apache Airflow: Introdução ao Apache Airflow/Apache Airflow.md
+    - Preparação do projeto: Introdução ao Apache Airflow/Preparação do projeto.md
+    - Preparação do Airflow: Introdução ao Apache Airflow/Preparação do Airflow.md
+    - Exercício 01: Introdução ao Apache Airflow/Exercício 01.md
+  - Entendendo e criando DAGs:
+    - DAGs no Apache Airflow: Entendendo e criando DAGs/DAGs no Apache Airflow.md
+    - Criação da DAG: Entendendo e criando DAGs/Criação da DAG.md
+    - Exercício 02: Entendendo e criando DAGs/Exercício 02.md
+  - Criando uma DAG mais complexa:
+    - Definindo problema: Criando uma DAG mais complexa/Definindo problema.md
+    - Definindo DAG como solução: Criando uma DAG mais complexa/Definindo DAG como solução.md
+    - Exercício 03: Criando uma DAG mais complexa/Exercício 03.md
+  - Agendamento e sensores:
+    - Agendamento: Agendamento e sensores/Agendamento.md
+    - Sensores: Agendamento e sensores/Sensores.md
+    - Exercício 04: Agendamento e sensores/Exercício 04.md
