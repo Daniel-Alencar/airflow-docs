@@ -56,8 +56,6 @@ extra:
       link: https://www.linkedin.com/in/daniel746/
     - icon: fontawesome/brands/github
       link: https://github.com/Daniel-Alencar
-    - icon: fontawesome/brands/github
-      link: https://www.linkedin.com/in/daniel746/
 
 nav:
   - Início: index.md
