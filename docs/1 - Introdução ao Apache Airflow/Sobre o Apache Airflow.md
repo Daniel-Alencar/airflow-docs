@@ -10,7 +10,7 @@ Seu objetivo é orquestrar pipelines de tarefas agendadas por meio de arquivos p
 
 Para seu funcionamento, o Airflow conta com alguns elementos chave que permitem a existência da sinergia necessária entre tarefas, eventos, estados e filas, todos funcionando de maneira sincronizada e de acordo com configurações definidas pelo usuário. A Figura abaixo representa, de maneira relativamente simplificada e em uma mesma máquina (visto que é possível configurar o Airflow de maneira escalonável) a estrutura de uma instância da ferramenta:
 
-![Untitled](Sobre%20o%20Apache%20Airflow%2019297f1680484e69802897e71b51fa0c/Untitled.png)
+![Untitled](Sobre%20o%20Apache%20Airflow/Untitled.png)
 
 Sendo assim, descrevendo de maneira também simplificada a funcionalidade e comportamento de cada elemento apresentado na Figura anterior:
 

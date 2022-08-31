@@ -55,25 +55,25 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/daniel746/
     - icon: fontawesome/brands/github
-      link: https://github.com/Daniel-Alencar
+      link: https://github.com/Daniel-Alencarca
 
 nav:
   - Início: index.md
   - Sobre o Autor: about.md
   - Introdução ao Apache Airflow:
-    - Apache Airflow: Introdução ao Apache Airflow/Apache Airflow.md
-    - Preparação do projeto: Introdução ao Apache Airflow/Preparação do projeto.md
-    - Preparação do Airflow: Introdução ao Apache Airflow/Preparação do Airflow.md
-    - Exercício 01: Introdução ao Apache Airflow/Exercício 01.md
+    - Sobre o Apache Airflow: 1 - Introdução ao Apache Airflow/Sobre o Apache Airflow.md
+    - Preparação do projeto: 1 - Introdução ao Apache Airflow/Preparação do projeto.md
+    - Preparação do Airflow: 1 - Introdução ao Apache Airflow/Preparação do Airflow.md
+    - Exercício 01: 1 - Introdução ao Apache Airflow/Exercício 01.md
   - Entendendo e criando DAGs:
-    - DAGs no Apache Airflow: Entendendo e criando DAGs/DAGs no Apache Airflow.md
-    - Criação da DAG: Entendendo e criando DAGs/Criação da DAG.md
-    - Exercício 02: Entendendo e criando DAGs/Exercício 02.md
+    - DAGs no Apache Airflow: 2 - Entendendo e criando DAGs/DAGs no Apache Airflow.md
+    - Criação da DAG: 2 - Entendendo e criando DAGs/Criação da DAG.md
+    - Exercício 02: 2 - Entendendo e criando DAGs/Exercício 02.md
   - Criando uma DAG mais complexa:
-    - Definindo problema: Criando uma DAG mais complexa/Definindo problema.md
-    - Definindo DAG como solução: Criando uma DAG mais complexa/Definindo DAG como solução.md
-    - Exercício 03: Criando uma DAG mais complexa/Exercício 03.md
+    - Definindo problema: 3 - Criando uma DAG mais complexa/Definindo problema.md
+    - Definindo DAG como solução: 3 - Criando uma DAG mais complexa/Definindo DAG como solução.md
+    - Exercício 03: 3 - Criando uma DAG mais complexa/Exercício 03.md
   - Agendamento e sensores:
-    - Agendamento: Agendamento e sensores/Agendamento.md
-    - Sensores: Agendamento e sensores/Sensores.md
-    - Exercício 04: Agendamento e sensores/Exercício 04.md
+    - Agendamento: 4 - Agendamento e Sensores/Agendamento.md
+    - Sensores: 4 - Agendamento e Sensores/Sensores.md
+    - Exercício 04: 4 - Agendamento e Sensores/Exercício 04.md
